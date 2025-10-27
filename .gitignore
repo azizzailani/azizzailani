@@ -1,0 +1,23 @@
+# Output directories
+output/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log
+
+# Temporary files
+*.tmp
+*.temp
